@@ -1,3 +1,5 @@
+This is a fork of [AquilarLagunasArturo/conky-themes](https://github.com/AguilarLagunasArturo/conky-themes) which modifies the 'Strip' theme.
+
 # Conky themes (tested with *conky 1.11.6*)
 A collection of *[conky](https://github.com/brndnmtthws/conky)* themes.
 ## Usage
